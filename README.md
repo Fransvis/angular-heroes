@@ -15,9 +15,3 @@
 - (Remember to cd into your app before calling ng serve)
 
 - Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## This app does the following:
-
-- Renders a landing page with a dashboard of heroes
-
-<img src='public/stylesheets/imgs/dashboard.png'>
