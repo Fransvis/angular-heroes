@@ -29,5 +29,5 @@ export class HeroesComponent implements OnInit {
       .subscribe(hero => {
         this.heroes.push(hero);
       });
-  }
+  } 
 }
