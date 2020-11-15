@@ -20,4 +20,9 @@
 
 - Renders a landing page with a dashboard of heroes
 
-<img src='/public/stylesheets/imgs/dashboard.png'>
+<img
+src=“public/stylesheets/imgs/dashboard.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
