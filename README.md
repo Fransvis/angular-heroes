@@ -20,4 +20,4 @@
 
 - Renders a landing page with a dashboard of heroes
 
-<img src='dashboard.png'>
+<img src="/images/dashboard.png">
